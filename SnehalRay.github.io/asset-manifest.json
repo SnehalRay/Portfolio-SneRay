@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de435a56.css",
+    "main.js": "/static/js/main.b5458a46.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SpaceGoldPurple.jpg": "/static/media/SpaceGoldPurple.8bcf3ae0cf46ec46e05d.jpg",
+    "static/media/NeuralRace.jpg": "/static/media/NeuralRace.0c017a47ae093472969e.jpg",
+    "static/media/FineTuning.jpg": "/static/media/FineTuning.bc7b6766f40350e941ef.jpg",
+    "static/media/MovieAPI.jpg": "/static/media/MovieAPI.9a33d5e0aac47253a98a.jpg",
+    "static/media/FootballScraping.jpg": "/static/media/FootballScraping.5e7f74e135959cd43bd0.jpg",
+    "static/media/ThreadsClone.jpg": "/static/media/ThreadsClone.c75f1695395c2dbe4379.jpg",
+    "static/media/Emoji2.png": "/static/media/Emoji2.8f4b52b27d37272edf36.png",
+    "static/media/July_Modified_Resume_Snehal.pdf": "/static/media/July_Modified_Resume_Snehal.17dff00a503747a15ec7.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/mypic.jpeg": "/static/media/mypic.7824983ca0349a85592e.jpeg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.de435a56.css.map": "/static/css/main.de435a56.css.map",
+    "main.b5458a46.js.map": "/static/js/main.b5458a46.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de435a56.css",
+    "static/js/main.b5458a46.js"
+  ]
+}
