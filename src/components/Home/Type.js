@@ -8,8 +8,7 @@ function Type() {
         strings: [
           "Computer Science Student",
           "3rd year honors",
-          "MERN Stack Developer",
-          "Open Source Contributor",
+          "University of Alberta",
         ],
         autoStart: true,
         loop: true,
