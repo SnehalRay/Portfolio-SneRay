@@ -13,6 +13,9 @@ function AboutCard() {
             <br />
             I am currently a bachelor's student at the University of Alberta.
             <br />
+            I am an International student from Abu Dhabi, UAE
+            <br />
+
             I am in my 3rd year of pursuing this degree with honors.
             <br />
             <br />
